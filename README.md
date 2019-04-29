@@ -1,2 +1,2 @@
 # csadc.github.io
-Community Pages
+Computer System and Architecture Design Community
